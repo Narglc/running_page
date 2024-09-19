@@ -88,8 +88,12 @@ class YearRange:
             return None
         return 1 + self.to_year - self.from_year
 
+<<<<<<< HEAD
     @property
     def real_year(self):
+=======
+    def count_with_data(self):
+>>>>>>> d35b6d9 (ignore the year which has no running data when drawing github.svg)
         """Return number of years which has running data"""
         return len(self.years_dict)
 
