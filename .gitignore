@@ -20,3 +20,7 @@ _site/
 
 config.yaml
 .venv/
+
+# 本地gpx/db数据不上传
+*.gpx
+data.db
