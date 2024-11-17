@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from codoon</name>
+    <type>Run</type>
+    <trkseg>
+      <trkpt lat="30.67965" lon="104.09579">
+        <ele>444.5</ele>
+        <time>2014-09-03T13:57:03Z</time>
+      </trkpt>
+      <trkpt lat="30.67971" lon="104.09571">
+        <ele>444.70001</ele>
+        <time>2014-09-03T13:57:10Z</time>
+      </trkpt>
+      <trkpt lat="30.67967" lon="104.09544">
+        <ele>457.39999</ele>
+        <time>2014-09-03T13:57:38Z</time>
+      </trkpt>
+      <trkpt lat="30.67954" lon="104.09522">
+        <ele>467.10001</ele>
+        <time>2014-09-03T13:58:04Z</time>
+      </trkpt>
+      <trkpt lat="30.67949" lon="104.09514">
+        <ele>470</ele>
+        <time>2014-09-03T13:58:18Z</time>
+      </trkpt>
+      <trkpt lat="30.67939" lon="104.09509">
+        <ele>469.29999</ele>
+        <time>2014-09-03T13:58:37Z</time>
+      </trkpt>
+      <trkpt lat="30.67928" lon="104.09502">
+        <ele>469.20001</ele>
+        <time>2014-09-03T13:58:48Z</time>
+      </trkpt>
+      <trkpt lat="30.67891" lon="104.09496">
+        <ele>465.70001</ele>
+        <time>2014-09-03T13:58:54Z</time>
+      </trkpt>
+      <trkpt lat="30.67884" lon="104.09512">
+        <ele>461.20001</ele>
+        <time>2014-09-03T13:58:59Z</time>
+      </trkpt>
+      <trkpt lat="30.6786" lon="104.09513">
+        <ele>459.20001</ele>
+        <time>2014-09-03T13:59:04Z</time>
+      </trkpt>
+      <trkpt lat="30.67856" lon="104.09521">
+        <ele>457</ele>
+        <time>2014-09-03T13:59:09Z</time>
+      </trkpt>
+      <trkpt lat="30.67861" lon="104.09521">
+        <ele>456.5</ele>
+        <time>2014-09-03T13:59:15Z</time>
+      </trkpt>
+      <trkpt lat="30.67852" lon="104.09523">
+        <ele>457.70001</ele>
+        <time>2014-09-03T13:59:26Z</time>
+      </trkpt>
+      <trkpt lat="30.67837" lon="104.09523">
+        <ele>459</ele>
+        <time>2014-09-03T13:59:30Z</time>
+      </trkpt>
+      <trkpt lat="30.67823" lon="104.09524">
+        <ele>461</ele>
+        <time>2014-09-03T13:59:35Z</time>
+      </trkpt>
+      <trkpt lat="30.67822" lon="104.09519">
+        <ele>458.5</ele>
+        <time>2014-09-03T13:59:45Z</time>
+      </trkpt>
+      <trkpt lat="30.67819" lon="104.09512">
+        <ele>454.70001</ele>
+        <time>2014-09-03T13:59:49Z</time>
+      </trkpt>
+      <trkpt lat="30.67804" lon="104.09531">
+        <ele>459.39999</ele>
+        <time>2014-09-03T14:00:23Z</time>
+      </trkpt>
+      <trkpt lat="30.67792" lon="104.09538">
+        <ele>458.89999</ele>
+        <time>2014-09-03T14:00:28Z</time>
+      </trkpt>
+      <trkpt lat="30.67787" lon="104.09546">
+        <ele>461.39999</ele>
+        <time>2014-09-03T14:00:37Z</time>
+      </trkpt>
+      <trkpt lat="30.67778" lon="104.09554">
+        <ele>463.70001</ele>
+        <time>2014-09-03T14:00:41Z</time>
+      </trkpt>
+      <trkpt lat="30.67773" lon="104.09563">
+        <ele>464.20001</ele>
+        <time>2014-09-03T14:00:46Z</time>
+      </trkpt>
+      <trkpt lat="30.67764" lon="104.09558">
+        <ele>463.89999</ele>
+        <time>2014-09-03T14:00:52Z</time>
+      </trkpt>
+      <trkpt lat="30.67759" lon="104.09557">
+        <ele>464.60001</ele>
+        <time>2014-09-03T14:00:58Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
